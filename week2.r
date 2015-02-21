@@ -1,4 +1,10 @@
 # Week 2
+# Vectors
+# Sequence Vectors, Vector Access, Vector Names
+# Plotting one vector, Vector Math, Scatter Plots
+# NA Values
+
+
 
 # vector values can be number strings or logical values
 # as long as they are ll the same type.

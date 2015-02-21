@@ -1,4 +1,7 @@
 # week1
+# Using R
+# Expressions, Logical Values, Variables, Functions
+# Help, Files
 
 # sum some numbers
 sum(1,3,5)

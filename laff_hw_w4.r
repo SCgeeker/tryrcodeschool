@@ -47,3 +47,12 @@ weather[1,] %*% weather[,1]
 
 0.40 * 0.40 + 0.30 * 0.40 + 0.10 * 0.20
 
+# make a vector corresponding to today.
+x=c(0,1,0)
+
+
+
+# The prediction of the weather 7 days from now
+for (i in 1:7 ) {
+  x = weather %*% x
+}
