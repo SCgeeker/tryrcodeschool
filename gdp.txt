@@ -1,0 +1,13 @@
+Rank	Country	GDP
+1	Liechtenstein	141100
+2	Qatar	104300
+3	Luxembourg	81100
+4	Bermuda	69900
+5	Austrlia	50000
+6	Bangladesh	45000
+7	China	40000
+8	Hong Kong	35000
+9	India	30000
+10	Indonesia	25000
+11	Japan	20000
+
